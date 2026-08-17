@@ -1,8 +1,5 @@
 # Python Data Structures for JavaScript Developers
 
-A comprehensive study guide bridging JavaScript data types (Arrays and Objects) with Python's core data structures: **Lists**, **Dictionaries**, and **Tuples**.
-
----
 
 ## 📚 Section 1: Python Lists (Arrays)
 
@@ -147,7 +144,7 @@ print(z)  # 30
 
 ---
 
-## ⚡ Quick Comparison Cheat Sheet for JS Developers
+## Quick Comparison Cheat Sheet for JS Developers
 
 | Feature / Action | JavaScript Syntax | Python Equivalent |
 | :--- | :--- | :--- |
@@ -161,3 +158,6 @@ print(z)  # 30
 | **Get Dictionary Keys** | `Object.keys(obj)` | `list(dct.keys())` |
 | **Get Dictionary Values** | `Object.values(obj)` | `list(dct.values())` |
 | **Get Key-Value Pairs** | `Object.entries(obj)` | `list(dct.items())` |
+
+---
+[Link for the lesson and videos 📚](https://ga-curriculum.github.io/python-for-javascript-developers-data-structures/canvas-landing-pages/seb.html)
