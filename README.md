@@ -89,6 +89,8 @@ score = student.pop("score")    # Deletes 'score' key and returns its value
 # Merge dictionaries (Equivalent to JS Object.assign or spread {...obj})
 student.update({"city": "Manama", "status": "Passed"})
 ```
+- `pop():` Useful if you need to use the value after removing it from the dictionary
+- `del:` Best when you simply want to delete the data and do not need to capture it.
 
 ### 3. Iterating Over Dictionaries
 ```python
