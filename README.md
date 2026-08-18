@@ -34,7 +34,7 @@ print(nums[::-1])  # [5, 4, 3, 2, 1, 0] (Reverses list)
 fruits = ["apple", "banana"]
 
 # Append to end (JS .push)
-fruits.append("cherry")
+fruits.append("cherry") # ["apple", "banana", "cherry"]
 
 # Insert at specific index
 fruits.insert(1, "mango")  # ['apple', 'mango', 'banana', 'cherry']
